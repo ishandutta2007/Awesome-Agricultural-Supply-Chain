@@ -1,199 +1,103 @@
-# Awesome-Agricultural-Supply-Chain
+# Awesome Agricultural Supply Chain 🌾📦🚜
 
-## Top Agricultural Supply Chain Ecosystem
+![Awesome Agricultural Supply Chain Banner](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agricultural-Supply-Chain"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agricultural-Supply-Chain?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agricultural-Supply-Chain/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Agricultural-Supply-Chain?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 📌 Top Agricultural Supply Chain Ecosystem & AgTech Software 🌾
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated List of Leading SaaS Platforms, Agri-FinTech Enterprise Tools & Open-Source GitHub Projects** 🚀
 
-*Focused on Farm-to-Fork Traceability, Grain & Produce Trade, Inventory, Contracts, Payments & Digital Ag Supply Chain Platforms*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Agricultural Supply Chain** management. These systems digitize contracts, deliveries, inventory, payments, traceability, and market connectivity for growers, elevators, processors, traders, and buyers across grains, fresh produce, and other agricultural commodities.
-
-
-
-**Examples** include ProducePay, AgriDigital, Bushel, SourceTrace, AgriChain, ProducePro, GrainChain, ProduceIQ, Cropin, and Traction Ag (the category leaders and adjacent platforms).
-
-
-
-**Open-source emphasis**: Commercial platforms dominate professional grain and produce supply-chain digitization. Open-source activity is stronger in local food systems, blockchain traceability, and farm-to-consumer marketplaces—led by **Open Food Network**, **INATrace / AgStack**, and related projects. This section lists every significant relevant project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[ProducePay](https://producepay.com/)**  
-
-  Digital platform for the fresh produce supply chain combining financing, payments, visibility, and program management for growers and buyers.
-
-
-
-- **[AgriDigital](https://www.agridigital.io/)**  
-
-  Commodity supply-chain platform for trading, storing, and managing grain inventory—contracts, deliveries, inventory, payments, and reporting in one system.
-
-
-
-- **[Bushel](https://bushelpowered.com/)**  
-
-  Digital grain platform connecting growers, elevators, and buyers with tools for marketing, payments, and supply-chain visibility.
-
-
-
-- **[Cropin](https://www.cropin.com/)**  
-
-  AI-first agri-food intelligence platform supporting digitization of grower networks, supply-chain visibility, and predictive insights across crops and geographies.
-
-
-
-- **[SourceTrace, AgriChain, ProducePro, GrainChain, ProduceIQ, Traction Ag](https://www.sourcetrace.com/)**  
-
-  Platforms covering farm management, traceability, produce and grain trade workflows, inventory, and supply-chain coordination.
-
-
-
-- **[Other commercial agricultural supply-chain platforms](https://producepay.com/)**  
-
-  Additional solutions for contracts, logistics, quality, and financial services across ag value chains.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork)**  
-
-  Mature open-source online marketplace connecting farmers, food hubs, and consumers. Enables independent online food stores and fairer distribution of local produce (AGPL). The strongest open platform for regional farm-to-consumer supply chains.
-
-
-
-- **[INATrace / AgStack traceability](https://github.com/agstack)**  
-
-  Open-source blockchain-based track-and-trace for agricultural supply chains (part of the Linux Foundation AgStack effort). Covers the journey from farmer to consumer with mobile data collection and transparent provenance.
-
-
-
-- **[FoodTraze](https://github.com/hyperledger-foodtraze/foodtraze-network)**  
-
-  Open-source food traceability solution built on Hyperledger Fabric for end-to-end, tamper-evident tracking of food products from production through distribution and retail.
-
-
-
-- **[Farm-to-fork marketplace projects](https://github.com/search?q=farm2fork+OR+farm-to-consumer+OR+local+food+marketplace)**  
-
-  Community platforms (e.g., Farm2Fork-style apps) that connect small-scale farmers directly with buyers, including inventory, orders, and payments.
-
-
-
-- **[Blockchain agricultural supply-chain PoCs](https://github.com/search?q=agricultural+supply+chain+blockchain+OR+grain+traceability)**  
-
-  Experimental and proof-of-concept systems for custody transfer, provenance, and digital documentation of agricultural goods.
-
-
-
-- **[OpenAgri & digital agriculture platform components](https://github.com/agstack)**  
-
-  Modular open digital agriculture services (farm calendars, weather, irrigation, etc.) that can support supply-chain and farm-level data collection.
-
-
-
-- **[Inventory & contract open tools](https://github.com/search?q=inventory+management+OR+contract+management+open+source)**  
-
-  General open inventory and document/contract systems that some organizations adapt for simple ag supply-chain tracking.
-
-
-
-- **[Local food hub & CSA open software](https://github.com/search?q=CSA+OR+food+hub+OR+community+supported+agriculture+open+source)**  
-
-  Additional open projects supporting community-supported agriculture and regional distribution models.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Regional food systems**: Open Food Network as the production-ready open choice for hubs and local marketplaces.
-
-- **Traceability**: INATrace, FoodTraze, and similar blockchain-based open stacks for provenance and compliance use cases.
-
-- **Direct trade**: Farm-to-consumer marketplace projects for eliminating intermediaries at smaller scale.
-
-- **Composable stacks**: Traceability ledger + inventory + simple order/payment workflow for custom regional solutions.
-
-- Full commercial platforms for large-scale grain trade, produce financing, and multi-party enterprise supply chains remain dominant.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Open Food Network** is the most mature open-source platform for local and regional agricultural trade and distribution.  
-
-**INATrace / AgStack** and **FoodTraze** provide strong open foundations for blockchain-backed traceability.  
-
-Commercial platforms (ProducePay, AgriDigital, Bushel, Cropin, etc.) deliver financing, enterprise contracts, multi-party inventory, payments, and scale required by professional grain and produce supply chains.  
-
-Many organizations use commercial systems for core trading and finance while adopting open traceability or local-marketplace tools for specific programs. Fully open stacks work well for regional food systems, cooperatives, and research; large commodity supply chains typically rely on commercial platforms.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Agricultural supply-chain systems handle contracts, payments, inventory, and sometimes food-safety or origin data. Ensure appropriate security, auditability, and compliance with trade, food-safety, and financial regulations.
-
-- Open-source tools offer transparency and community ownership but require hosting, integration, and ongoing maintenance. Commercial platforms shift operational burden to the vendor. Choose according to scale, commodity type, and regulatory context.
-
-
+*Focused on Farm-to-Fork Traceability, Grain & Produce Trading, Inventory Management, Commodity Contracts, Agritech Payments, ESG Auditing & Digital Ag Supply Chain Platforms.* 🌾📦
 
 ---
 
+## 📊 Market Overview & Industry Structure 💡
 
+> **Market Size & Dynamics**: The Global Agricultural Supply Chain & Management Software Market is estimated at **$1.8 Billion in 2024** and is projected to reach **$3.8 Billion by 2030** (growing at a CAGR of ~13.2%).
+>
+> **Market Structure**: The sector is **Moderately Fragmented**. While commercial giants lead grain marketing and financial services in North America and Australia, hundreds of specialized regional platforms, local food hubs, and open-source traceability projects serve distinct commodity niches (fresh produce, coffee, dairy, grains) globally.
 
-**Made for growers, elevators, produce buyers, supply-chain managers, and agricultural technology teams.**  
+---
 
-Let's strengthen open tools for fair and transparent agricultural trade while recognizing the financing, scale, and multi-party depth that leading commercial agricultural supply-chain platforms deliver.
+## 📋 Table of Contents 📑
+
+- [💻 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 💻 SaaS & Hosted Platforms 🏢
+
+*Commercial agtech software solutions providing enterprise grain trading, fresh produce inventory financing, logistics, and commodity market connectivity. Sorted by estimated enterprise valuation / total funding (descending).* 📈
+
+| Platform 🚀 | Description 📝 | Valuation / Revenue 💰 | Specific Pricing Tier 🏷️ | Free Tier / Trial Limit ⏳ |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ProducePay](https://producepay.com/)** 🍓 | Fresh produce supply chain platform combining trade financing, payment visibility, and grower-buyer programs. | **$100M - $250M Est. Valuation** ($300M+ Total Funding) | Membership model + Commission fees (~1-3% per trade transaction) | Free grower account registration & market insights; paid finance services |
+| **[Cropin](https://www.cropin.com/)** 🌾 | AI-first agri-food intelligence platform for grower network digitization, supply-chain visibility, and predictive risk insights. | **$91M Valuation** ($38M - $63M Est. Revenue) | Custom Enterprise Plan (Starts at ~$2,500/year for business units) | 14-day Enterprise demo trial available upon request |
+| **[Bushel](https://bushelpowered.com/)** 🚜 | Digital grain platform connecting growers, elevators, and ag-retailers with grain marketing, digital payments, and inventory visibility. | **$75M - $150M Est. Valuation** ($60M+ Funding) | **$75 / year** (Bushel Farm Lite Tier) up to **$599 / year** (Essentials Tier) | 14-day free trial on Bushel Farm plans with standard features |
+| **[SourceTrace](https://www.sourcetrace.com/)** 🌴 | Software for farm-to-fork commodity traceability, ESG compliance, smallholder farmer management, and supply chain auditability. | **$15M - $30M Est. Valuation** ($3M - $5M Est. Revenue) | Monthly software subscription scaling per farmer/acre (Starts ~$150/month) | Free live demo session; no standalone free-forever tier |
+| **[AgriDigital](https://www.agridigital.io/)** 🌾 | Grain supply chain management platform for contracts, delivery tracking, inventory storage, and embedded harvest finance. | **$12M - $25M Est. Valuation** ($1.7M ARR) | Platform license starting from **$250 / month** + volume processing fees | 14-day free trial for AgriDigital Onfarm platform |
+
+---
+
+## 🔓 Open-Source GitHub Projects 🌾
+
+*Production-ready open-source software, farm management frameworks, and blockchain-backed traceability projects for regional food networks and transparent provenance. Sorted by GitHub star counts (descending).* ⭐
+
+| Project 🚀 | Description 📝 | Star Count 🌟 | License 📄 |
+| :--- | :--- | :--- | :--- |
+| **[farmOS](https://github.com/farmos/farmOS)** 🚜 | Web-based farm management, planning, mapping, inventory, and record-keeping application built for farmers, researchers, and supply networks. | [<img src="https://img.shields.io/github/stars/farmos/farmOS?style=social&color=white" alt="farmOS Stars"/>](https://github.com/farmos/farmOS/stargazers) | GPL-2.0 |
+| **[Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork)** 🥗 | Open-source online marketplace platform connecting farmers, local food hubs, and consumers for sustainable regional food distribution. | [<img src="https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork?style=social&color=white" alt="Open Food Network Stars"/>](https://github.com/openfoodfoundation/openfoodnetwork/stargazers) | AGPL-3.0 |
+| **[Tania](https://github.com/Tanibox/tania)** 🌱 | Open-source farm management system for hydroponics, aquaponics, and agricultural inventory tracking. | [<img src="https://img.shields.io/github/stars/Tanibox/tania?style=social&color=white" alt="Tania Stars"/>](https://github.com/Tanibox/tania/stargazers) | Apache-2.0 |
+| **[Blockchain Automation Framework](https://github.com/hyperledger-labs/blockchain-automation-framework)** ⛓️ | Hyperledger lab project providing deployment automation for supply-chain blockchains including food provenance networks. | [<img src="https://img.shields.io/github/stars/hyperledger-labs/blockchain-automation-framework?style=social&color=white" alt="BAF Stars"/>](https://github.com/hyperledger-labs/blockchain-automation-framework/stargazers) | Apache-2.0 |
+| **[LiteFarm](https://github.com/LiteFarmOrg/LiteFarm)** 👨‍🌾 | Open-source community-driven farm management application designed for sustainable farmers to manage operations and certifications. | [<img src="https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm?style=social&color=white" alt="LiteFarm Stars"/>](https://github.com/LiteFarmOrg/LiteFarm/stargazers) | GPL-3.0 |
+| **[Hyperledger Grid](https://github.com/hyperledger/grid)** 📦 | WebAssembly-based platform for building enterprise supply-chain solutions, including agricultural tracking and product domain models. | [<img src="https://img.shields.io/github/stars/hyperledger/grid?style=social&color=white" alt="Hyperledger Grid Stars"/>](https://github.com/hyperledger/grid/stargazers) | Apache-2.0 |
+| **[INATrace](https://github.com/agstack/inatrace-backend)** ☕ | Open-source, blockchain-based track-and-trace system for agricultural supply chains (coffee, cocoa) under Linux Foundation AgStack. | [<img src="https://img.shields.io/github/stars/agstack/inatrace-backend?style=social&color=white" alt="INATrace Stars"/>](https://github.com/agstack/inatrace-backend/stargazers) | GPL-3.0 |
+| **[TraceFoodChain](https://github.com/agstack/tracefoodchain)** 🥑 | Mobile-first Flutter app for end-to-end ag supply chain traceability and EUDR deforestation compliance by AgStack. | [<img src="https://img.shields.io/github/stars/agstack/tracefoodchain?style=social&color=white" alt="TraceFoodChain Stars"/>](https://github.com/agstack/tracefoodchain/stargazers) | Apache-2.0 |
+
+---
+
+## 🤝 How to Contribute 🛠️
+
+Contributions are very welcome! To add a SaaS platform or Open-Source project to this repository:
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add/Update** entries in `README.md` following the exact table structure.
+3. 🔎 **Provide Factual Details**: Include pricing, trial limits, market valuation, and official links.
+4. 📬 **Open a Pull Request** with a brief overview of changes.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+If you found this curated list of Agricultural Supply Chain software helpful, please consider supporting the project! Your encouragement helps keep this resource updated and maintained. 🌟
+
+- ⭐ **Star this repository** to show appreciation!
+- 🔀 **Fork & Share** with your network, agtech developers, and supply chain enthusiasts.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub"/></a>
+
+---
+
+## 📈 Star History 📊
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Agricultural-Supply-Chain&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Agricultural-Supply-Chain&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer 📜
+
+- This repository is a **community-curated list** for informational and educational purposes only.
+- Pricing, valuation, and trial details reflect market estimates and public filings as of late 2024 / 2026 and are subject to change by vendors.
+- Agricultural supply chain software processes financial, contractual, and food safety data. Ensure compliance with local financial and agricultural regulations.
